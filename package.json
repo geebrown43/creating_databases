@@ -1,0 +1,26 @@
+{
+  "name": "creating_databases",
+  "version": "1.0.0",
+  "description": "* NPM Init * NPM Install Express * NPM Install PG * NPM Install HBS * NPM Install Knex * Knex Init  *",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geebrown43/creating_databases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geebrown43/creating_databases/issues"
+  },
+  "homepage": "https://github.com/geebrown43/creating_databases#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "knex": "^0.14.1",
+    "pg": "^7.4.0"
+  }
+}
