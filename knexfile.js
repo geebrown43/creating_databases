@@ -6,7 +6,7 @@ module.exports = {
     client: 'pg',
     connection: {
       host: 'localhost',
-      database: 'ellis_portfolio'
+      database: 'personal_database'
     }
   },
 
